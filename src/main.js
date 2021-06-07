@@ -4,6 +4,10 @@ import router from './router'
 
 // 导入vant
 import './utils/vant'
+
+// 导入amfe-flexible
+import 'amfe-flexible'
+
 Vue.config.productionTip = false
 
 new Vue({
