@@ -8,6 +8,9 @@ import './utils/vant'
 // 导入amfe-flexible
 import 'amfe-flexible'
 
+// 导入全局通用样式
+import './styles/base.less'
+
 Vue.config.productionTip = false
 
 new Vue({
